@@ -1,5 +1,8 @@
 # security-learning-journal
 
+## 9/10/26 - AI Harness Engineering: Building Reliable AI Coding Agents (Trainocate)
+Completed training on designing, building, and testing reliable AI coding agents to improve software engineering workflows.
+
 ## 2/10/26 - Offensive Security Intro (TryHackMe)
 Completed my first hands-on room, learned the point-of-view of hackers.
 
